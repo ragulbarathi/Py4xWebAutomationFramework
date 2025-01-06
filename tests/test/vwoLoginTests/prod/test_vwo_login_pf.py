@@ -1,15 +1,15 @@
-import time
+import allure
+import logging
 import pytest
 import selenium
+import time
+from allure_commons.types import AttachmentType
 from selenium import webdriver
 
-from tests.pageObejcts.page_factory.loginPage_pf import LoginPage
-from tests.pageObejcts.page_factory.dashboardPage_pf import DashboardPage
-import allure
-
-from allure_commons.types import AttachmentType
 from tests.constants.constants import Constants
-import logging
+from tests.pageObejcts.page_factory.dashboardPage_pf import DashboardPage
+from tests.pageObejcts.page_factory.loginPage_pf import LoginPage
+
 
 @allure.epic("VWO App")
 @allure.feature("Login Test")

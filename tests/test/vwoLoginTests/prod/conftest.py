@@ -1,9 +1,9 @@
+import os
+import pytest
+from dotenv import load_dotenv
 from selenium import webdriver
 from selenium.webdriver import Chrome
-import pytest
 
-import os
-from dotenv import  load_dotenv
 load_dotenv()
 
 driver = webdriver.Edge()

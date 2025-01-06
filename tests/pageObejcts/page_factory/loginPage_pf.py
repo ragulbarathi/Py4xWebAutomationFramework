@@ -4,9 +4,11 @@
 # Custom Functions
 # No Assertion here ( They are not Test cases)
 
-from seleniumpagefactory.Pagefactory import PageFactory
-from tests.utils.commom_utils import webdriver_wait
 from selenium.webdriver.common.by import By
+from seleniumpagefactory.Pagefactory import PageFactory
+
+from tests.utils.commom_utils import webdriver_wait
+
 
 class LoginPage(PageFactory):
 

@@ -5,33 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc1ff103-1633-4acb-a626-e9695ad9c57e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Py4xWebAutomationFramework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/constants/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/constants/constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pageObejcts/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pageObejcts/page_factory/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pageObejcts/page_factory/dashboardPage_pf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pageObejcts/page_factory/loginPage_pf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pageObejcts/pom/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pageObejcts/pom/dashboardPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pageObejcts/pom/loginPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test/vwoLoginTests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test/vwoLoginTests/prod/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test/vwoLoginTests/prod/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test/vwoLoginTests/prod/test_vwo_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test/vwoLoginTests/prod/test_vwo_login_pf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/utils/commom_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Py4xWebAutomationFramework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Py4xWebAutomationFramework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/constants/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/constants/constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/pageObejcts/page_factory/dashboardPage_pf.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/pageObejcts/page_factory/dashboardPage_pf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/pageObejcts/page_factory/loginPage_pf.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/pageObejcts/page_factory/loginPage_pf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/pageObejcts/pom/dashboardPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/pageObejcts/pom/dashboardPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/pageObejcts/pom/loginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/pageObejcts/pom/loginPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test/vwoLoginTests/prod/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test/vwoLoginTests/prod/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test/vwoLoginTests/prod/test_vwo_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test/vwoLoginTests/prod/test_vwo_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test/vwoLoginTests/prod/test_vwo_login_pf.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test/vwoLoginTests/prod/test_vwo_login_pf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/utils/commom_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/utils/commom_utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +33,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ragulbarathi&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ragulbarathi/Py4xWebAutomationFramework.git&quot;,
+    &quot;accountId&quot;: &quot;1d81d680-867b-4e5c-91ea-969cc1b83647&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2pD1xoIP4W8ALz2jCW1fPBtBaOH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -59,13 +56,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/promode/PycharmProjects/Py4xWebAutomationFramework"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/promode/PycharmProjects/Py4xWebAutomationFramework&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -78,7 +75,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
+        <option value="bundled-python-sdk-f5635417b835-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18968.29" />
       </set>
     </attachedChunks>
   </component>

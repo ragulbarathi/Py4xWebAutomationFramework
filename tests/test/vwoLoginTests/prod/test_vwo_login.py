@@ -1,19 +1,17 @@
 import allure
 import pytest
 import time
-
 from selenium import webdriver
+
+from tests.constants.constants import Constants
+from tests.pageObejcts.pom.dashboardPage import DashboardPage
+from tests.pageObejcts.pom.loginPage import LoginPage
 
 
 # Assertions and use the Page Object class
-
 # Webdriver Start
 # User Interaction + Assertions
 # Close Webdriver
-
-from tests.constants.constants import Constants
-from tests.pageObejcts.pom.loginPage import LoginPage
-from tests.pageObejcts.pom.dashboardPage import DashboardPage
 
 @pytest.fixture()
 def setup():

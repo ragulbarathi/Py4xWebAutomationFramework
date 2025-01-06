@@ -1,5 +1,7 @@
-from allure_commons.types import AttachmentType
 import allure
+from allure_commons.types import AttachmentType
+
+
 class Constants:
     def __init__(self):
         print("constants loaded")

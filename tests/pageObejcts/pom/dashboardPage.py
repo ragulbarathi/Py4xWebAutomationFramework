@@ -5,7 +5,9 @@
 
 
 from selenium.webdriver.common.by import By
+
 from tests.utils.commom_utils import webdriver_wait
+
 
 class DashboardPage:
     def __init__(self, driver):
